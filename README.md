@@ -73,3 +73,6 @@ Em breve...
 - [ ] Aprender SQL
 - [ ] Criar minha primeira API
           
+<p align="center">
+  <img src="assets/dragonite-pokemon.gif" width="400">
+</p>
